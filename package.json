@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "My webpack project",
   "main": "index.js",
-  "repository": "",
+  "repository": "https://github.com/aiky967/ReduxSimpleStarter",
   "scripts": {
     "start": "webpack serve --mode development --env development",
     "serve": "webpack serve",

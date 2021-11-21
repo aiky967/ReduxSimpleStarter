@@ -6,7 +6,7 @@ This is a youtube player web application. I used all the latest library as the o
 To run this project follow this command ->
 
 ```
-> git clone
+> git clone https://github.com/aiky967/ReduxSimpleStarter
 > cd ReduxSimpleStarter
 > npm install
 > npm start
