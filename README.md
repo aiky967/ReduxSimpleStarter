@@ -1,4 +1,3 @@
-# ReduxSimpleStarter
 
 # ReduxSimpleStarter
 
